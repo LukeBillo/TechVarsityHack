@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Trenting Trains</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCi42jMOBtSjSKJcPVONNGTZujAKRXbTqU&libraries=places"></script>
+        <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <banner>
+		<img src="banner4.png" >
+	</banner>
+    <div class="container">
+        <div id="map"></div>
+
+    	<div id="sidebar">
+            <div id="fields">
+                <fieldset>
+        			<button id="findLocationBtn">Search at my location</button>
+        		</fieldset>
+
+        		<fieldset>
+        			<input id="postcodeField" />
+        			<button id="findPostcodeBtn">Search at Postcode</button>
+        		</fieldset>
+            </div>
+
+    		<iframe id="trains-frame" src="http://iris2.rail.co.uk/tiger/lm.html"></iframe>
+    	</div>
+    </div>
+
+	<footer>&copy; Trendy Trains, Tech Varsity Hackathon 2017</footer>
+
+    <script src="maps.js" type="text/javascript"></script>
+</body>
+</html>

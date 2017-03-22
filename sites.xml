@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TigerStations>
+<LICC Name="Abellio Greater Anglia" Code="GRA">
+<Station TIPLOC="CLCHSTR" CRS="COL" Name="Colchester" Address="3011A3" HasAtoZ="false" XMLURN="3011A3.xml"/>
+<Station TIPLOC="DISS" CRS="DIS" Name="Diss" Address="3011A1" HasAtoZ="false" XMLURN="3011A1.xml"/>
+<Station TIPLOC="LIVST" CRS="LST" Name="London Liverpool Street" Address="3011F2" HasAtoZ="false" XMLURN="3011F2.xml"/>
+<Station TIPLOC="STHEAIR" CRS="SIA" Name="Southend Airport" Address="3011A2" HasAtoZ="false" XMLURN="3011A2.xml"/>
+</LICC>
+<LICC Name="Arriva Trains Wales" Code="ATW">
+<Station TIPLOC="ABRYSTH" CRS="AYW" Name="Aberystwyth" Address="3046AA" HasAtoZ="false" XMLURN="3046AA.xml"/>
+<Station TIPLOC="CRDFCEN" CRS="CDF" Name="Cardiff Central" Address="3046A0" HasAtoZ="false" XMLURN="3046A0.xml"/>
+<Station TIPLOC="CARDFQS" CRS="CDQ" Name="Cardiff Queen Street" Address="3046A1" HasAtoZ="false" XMLURN="3046A1.xml"/>
+<Station TIPLOC="CMTHN" CRS="CMN" Name="Carmarthen" Address="3046A2" HasAtoZ="false" XMLURN="3046A2.xml"/>
+<Station TIPLOC="CHST" CRS="CTR" Name="Chester" Address="3046A3" HasAtoZ="false" XMLURN="3046A3.xml"/>
+<Station TIPLOC="HEREFRD" CRS="HFD" Name="Hereford" Address="3046AB" HasAtoZ="false" XMLURN="3046AB.xml"/>
+<Station TIPLOC="LANDUDJ" CRS="LLJ" Name="Llandudno Junction" Address="3046A4" HasAtoZ="false" XMLURN="3046A4.xml"/>
+<Station TIPLOC="MCHYNLT" CRS="MCN" Name="Machynlleth" Address="3046A5" HasAtoZ="false" XMLURN="3046A5.xml"/>
+<Station TIPLOC="NWPTRTG" CRS="NWP" Name="Newport (South Wales)" Address="3046A6" HasAtoZ="false" XMLURN="3046A6.xml"/>
+<Station TIPLOC="RHOOSE" CRS="RIA" Name="Rhoose Cardiff Int Airport" Address="3046A7" HasAtoZ="false" XMLURN="3046A7.xml"/>
+<Station TIPLOC="SHRWBY" CRS="SHR" Name="Shrewsbury" Address="3046A8" HasAtoZ="false" XMLURN="3046A8.xml"/>
+<Station TIPLOC="SWANSEA" CRS="SWA" Name="Swansea" Address="3046A9" HasAtoZ="false" XMLURN="3046A9.xml"/>
+</LICC>
+<LICC Name="C2C Rail" Code="C2C">
+<Station TIPLOC="BARKING" CRS="BKG" Name="Barking" Address="302202" HasAtoZ="false" XMLURN="302202.xml"/>
+<Station TIPLOC="BASILDN" CRS="BSO" Name="Basildon" Address="302203" HasAtoZ="false" XMLURN="302203.xml"/>
+<Station TIPLOC="BENFLET" CRS="BEF" Name="Benfleet" Address="302204" HasAtoZ="false" XMLURN="302204.xml"/>
+<Station TIPLOC="CHADHDD" CRS="CFH" Name="Chafford Hundred" Address="302205" HasAtoZ="false" XMLURN="302205.xml"/>
+<Station TIPLOC="CHLKWEL" CRS="CHW" Name="Chalkwell" Address="302206" HasAtoZ="false" XMLURN="302206.xml"/>
+<Station TIPLOC="DGNHMDC" CRS="DDK" Name="Dagenham Dock" Address="302207" HasAtoZ="false" XMLURN="302207.xml"/>
+<Station TIPLOC="ETILBRY" CRS="ETL" Name="East Tilbury" Address="302208" HasAtoZ="false" XMLURN="302208.xml"/>
+<Station TIPLOC="GRAYS" CRS="GRY" Name="Grays" Address="302209" HasAtoZ="false" XMLURN="302209.xml"/>
+<Station TIPLOC="LAINDON" CRS="LAI" Name="Laindon" Address="30220A" HasAtoZ="false" XMLURN="30220A.xml"/>
+<Station TIPLOC="LHONSEA" CRS="LES" Name="Leigh-on-Sea" Address="30220B" HasAtoZ="false" XMLURN="30220B.xml"/>
+<Station TIPLOC="LIMHSE" CRS="LHS" Name="Limehouse" Address="30220C" HasAtoZ="false" XMLURN="30220C.xml"/>
+<Station TIPLOC="FENCHRS" CRS="FST" Name="London Fenchurch Street" Address="302201" HasAtoZ="true" XMLURN="302201.xml"/>
+<Station TIPLOC="OCKENDN" CRS="OCK" Name="Ockendon" Address="30220D" HasAtoZ="false" XMLURN="30220D.xml"/>
+<Station TIPLOC="PITSEA" CRS="PSE" Name="Pitsea" Address="30220E" HasAtoZ="false" XMLURN="30220E.xml"/>
+<Station TIPLOC="PURFLET" CRS="PFL" Name="Purfleet" Address="30220F" HasAtoZ="false" XMLURN="30220F.xml"/>
+<Station TIPLOC="RNHAME" CRS="RNM" Name="Rainham" Address="302210" HasAtoZ="false" XMLURN="302210.xml"/>
+<Station TIPLOC="SHBRYNS" CRS="SRY" Name="Shoeburyness" Address="302211" HasAtoZ="false" XMLURN="302211.xml"/>
+<Station TIPLOC="STHCENT" CRS="SOC" Name="Southend Central" Address="302213" HasAtoZ="false" XMLURN="302213.xml"/>
+<Station TIPLOC="STHNDE" CRS="SOE" Name="Southend East" Address="302214" HasAtoZ="false" XMLURN="302214.xml"/>
+<Station TIPLOC="SLEHOPE" CRS="SFO" Name="Stanford-le-Hope" Address="302212" HasAtoZ="false" XMLURN="302212.xml"/>
+<Station TIPLOC="THOPBAY" CRS="TPB" Name="Thorpe Bay" Address="302215" HasAtoZ="false" XMLURN="302215.xml"/>
+<Station TIPLOC="TLBYTWN" CRS="TIL" Name="Tilbury Town" Address="302216" HasAtoZ="false" XMLURN="302216.xml"/>
+<Station TIPLOC="UPMNSTR" CRS="UPM" Name="Upminster" Address="302217" HasAtoZ="false" XMLURN="302217.xml"/>
+<Station TIPLOC="WHAMHL" CRS="XHH" Name="West Ham" Address="302219" HasAtoZ="false" XMLURN="302219.xml"/>
+<Station TIPLOC="WHORNDN" CRS="WHR" Name="West Horndon" Address="30221A" HasAtoZ="false" XMLURN="30221A.xml"/>
+<Station TIPLOC="WCLIFF" CRS="WCF" Name="Westcliff" Address="302218" HasAtoZ="false" XMLURN="302218.xml"/>
+</LICC>
+<LICC Name="Chiltern Railways" Code="CH">
+<Station TIPLOC="BNBR" CRS="BAN" Name="Banbury" Address="30481B" HasAtoZ="false" XMLURN="30481B.xml"/>
+<Station TIPLOC="BCSTN" CRS="BCS" Name="Bicester North" Address="304814" HasAtoZ="false" XMLURN="304814.xml"/>
+<Station TIPLOC="BCSTRTN" CRS="BIT" Name="Bicester Village" Address="304812" HasAtoZ="false" XMLURN="304812.xml"/>
+<Station TIPLOC="BHAMMRS" CRS="BMO" Name="Birmingham Moor Street" Address="304816" HasAtoZ="false" XMLURN="304816.xml"/>
+<Station TIPLOC="HATTON" CRS="HTN" Name="Hatton" Address="30481A" HasAtoZ="false" XMLURN="30481A.xml"/>
+<Station TIPLOC="ISLIP" CRS="ISP" Name="Islip" Address="304813" HasAtoZ="false" XMLURN="304813.xml"/>
+<Station TIPLOC="LMNGTNS" CRS="LMS" Name="Leamington Spa" Address="304817" HasAtoZ="false" XMLURN="304817.xml"/>
+<Station TIPLOC="OXFPWAY" CRS="OXP" Name="Oxford Parkway" Address="304811" HasAtoZ="false" XMLURN="304811.xml"/>
+<Station TIPLOC="WARWICK" CRS="WRW" Name="Warwick" Address="304818" HasAtoZ="false" XMLURN="304818.xml"/>
+<Station TIPLOC="WARWPWY" CRS="WRP" Name="Warwick Parkway" Address="304819" HasAtoZ="false" XMLURN="304819.xml"/>
+</LICC>
+<LICC Name="East Midlands Trains" Code="EMT">
+<Station TIPLOC="BESTON" CRS="BEE" Name="Beeston" Address="301412" HasAtoZ="false" XMLURN="301412.xml"/>
+<Station TIPLOC="NTNG" CRS="NOT" Name="Nottingham" Address="301476" HasAtoZ="false" XMLURN="301476.xml"/>
+<Station TIPLOC="SHEFFLD" CRS="SHF" Name="Sheffield" Address="3014A1" HasAtoZ="false" XMLURN="3014A1.xml"/>
+</LICC>
+<LICC Name="Govia Thameslink Railways" Code="GTR">
+<Station TIPLOC="BEDFDM" CRS="BDM" Name="Bedford" Address="306701" HasAtoZ="false" XMLURN="306701.xml"/>
+<Station TIPLOC="CTMSLNK" CRS="CTK" Name="City Thameslink" Address="306704" HasAtoZ="false" XMLURN="306704.xml"/>
+<Station TIPLOC="CRKLWD" CRS="CRI" Name="Cricklewood" Address="306702" HasAtoZ="false" XMLURN="306702.xml"/>
+<Station TIPLOC="ENFC" CRS="ENC" Name="Enfield Chase" Address="306705" HasAtoZ="false" XMLURN="306705.xml"/>
+<Station TIPLOC="SNDY" CRS="SDY" Name="Sandy" Address="306703" HasAtoZ="false" XMLURN="306703.xml"/>
+</LICC>
+<LICC Name="Great Western Railway" Code="GWR">
+<Station TIPLOC="ACTONML" CRS="AML" Name="Acton Main Line" Address="30496A" HasAtoZ="false" XMLURN="30496A.xml"/>
+<Station TIPLOC="ALDMSTN" CRS="AMT" Name="Aldermaston" Address="303201" HasAtoZ="false" XMLURN="303201.xml"/>
+<Station TIPLOC="APPLEFD" CRS="APF" Name="Appleford" Address="303202" HasAtoZ="false" XMLURN="303202.xml"/>
+<Station TIPLOC="ASCTUWD" CRS="AUW" Name="Ascott-under-Wychwood" Address="303203" HasAtoZ="false" XMLURN="303203.xml"/>
+<Station TIPLOC="ASHCHRC" CRS="ASC" Name="Ashchurch For Tewkesbury" Address="303204" HasAtoZ="false" XMLURN="303204.xml"/>
+<Station TIPLOC="AVNCLFF" CRS="AVF" Name="Avoncliff" Address="30496B" HasAtoZ="false" XMLURN="30496B.xml"/>
+<Station TIPLOC="AVONMTH" CRS="AVN" Name="Avonmouth" Address="303205" HasAtoZ="false" XMLURN="303205.xml"/>
+<Station TIPLOC="BNBR" CRS="BAN" Name="Banbury" Address="303432" HasAtoZ="false" XMLURN="303432.xml"/>
+<Station TIPLOC="BRNSTPL" CRS="BNP" Name="Barnstaple" Address="304974" HasAtoZ="false" XMLURN="304974.xml"/>
+<Station TIPLOC="BATHSPA" CRS="BTH" Name="Bath Spa" Address="30474C" HasAtoZ="false" XMLURN="30474C.xml"/>
+<Station TIPLOC="BDMNSTR" CRS="BMT" Name="Bedminster" Address="303206" HasAtoZ="false" XMLURN="303206.xml"/>
+<Station TIPLOC="BEDYN" CRS="BDW" Name="Bedwyn" Address="30496D" HasAtoZ="false" XMLURN="30496D.xml"/>
+<Station TIPLOC="BEREALS" CRS="BAS" Name="Bere Alston" Address="303207" HasAtoZ="false" XMLURN="303207.xml"/>
+<Station TIPLOC="BEREFRS" CRS="BFE" Name="Bere Ferrers" Address="30496E" HasAtoZ="false" XMLURN="30496E.xml"/>
+<Station TIPLOC="BTCHWTH" CRS="BTO" Name="Betchworth" Address="304976" HasAtoZ="false" XMLURN="304976.xml"/>
+<Station TIPLOC="BCKWATR" CRS="BAW" Name="Blackwater" Address="30496C" HasAtoZ="false" XMLURN="30496C.xml"/>
+<Station TIPLOC="BODMNPW" CRS="BOD" Name="Bodmin Parkway" Address="304971" HasAtoZ="false" XMLURN="304971.xml"/>
+<Station TIPLOC="BORNEND" CRS="BNE" Name="Bourne End" Address="303247" HasAtoZ="false" XMLURN="303247.xml"/>
+<Station TIPLOC="BRDFDOA" CRS="BOA" Name="Bradford-on-Avon" Address="304972" HasAtoZ="false" XMLURN="304972.xml"/>
+<Station TIPLOC="BMLY" CRS="BMY" Name="Bramley" Address="30496F" HasAtoZ="false" XMLURN="30496F.xml"/>
+<Station TIPLOC="BRDGWTR" CRS="BWT" Name="Bridgwater" Address="304973" HasAtoZ="false" XMLURN="304973.xml"/>
+<Station TIPLOC="BRSTPWY" CRS="BPW" Name="Bristol Parkway" Address="30474D" HasAtoZ="false" XMLURN="30474D.xml"/>
+<Station TIPLOC="BRSTLTM" CRS="BRI" Name="Bristol Temple Meads" Address="3047A0" HasAtoZ="false" XMLURN="3047A0.xml"/>
+<Station TIPLOC="BRUTON" CRS="BRU" Name="Bruton" Address="304975" HasAtoZ="false" XMLURN="304975.xml"/>
+<Station TIPLOC="BUGLE" CRS="BGL" Name="Bugle" Address="304977" HasAtoZ="false" XMLURN="304977.xml"/>
+<Station TIPLOC="BNHAM" CRS="BNM" Name="Burnham" Address="304970" HasAtoZ="false" XMLURN="304970.xml"/>
+<Station TIPLOC="CALSTCK" CRS="CSK" Name="Calstock" Address="303209" HasAtoZ="false" XMLURN="303209.xml"/>
+<Station TIPLOC="DURSLEY" CRS="CDU" Name="Cam &amp; Dursley" Address="30320A" HasAtoZ="false" XMLURN="30320A.xml"/>
+<Station TIPLOC="CBORNE" CRS="CBN" Name="Camborne" Address="30354B" HasAtoZ="false" XMLURN="30354B.xml"/>
+<Station TIPLOC="CARBISB" CRS="CBB" Name="Carbis Bay" Address="30320B" HasAtoZ="false" XMLURN="30320B.xml"/>
+<Station TIPLOC="CBARPAR" CRS="CBP" Name="Castle Bar Park" Address="304979" HasAtoZ="false" XMLURN="304979.xml"/>
+<Station TIPLOC="CCARY" CRS="CLC" Name="Castle Cary" Address="30474E" HasAtoZ="false" XMLURN="30474E.xml"/>
+<Station TIPLOC="CAUSLND" CRS="CAU" Name="Causeland" Address="304978" HasAtoZ="false" XMLURN="304978.xml"/>
+<Station TIPLOC="CHAPLTN" CRS="CPN" Name="Chapelton" Address="30497A" HasAtoZ="false" XMLURN="30497A.xml"/>
+<Station TIPLOC="CHBURY" CRS="CBY" Name="Charlbury" Address="30497B" HasAtoZ="false" XMLURN="30497B.xml"/>
+<Station TIPLOC="CHLTNHM" CRS="CNM" Name="Cheltenham Spa" Address="30497D" HasAtoZ="false" XMLURN="30497D.xml"/>
+<Station TIPLOC="CHETNOL" CRS="CNO" Name="Chetnole" Address="30497C" HasAtoZ="false" XMLURN="30497C.xml"/>
+<Station TIPLOC="CHLWTH" CRS="CHL" Name="Chilworth" Address="30497E" HasAtoZ="false" XMLURN="30497E.xml"/>
+<Station TIPLOC="CHIPNHM" CRS="CPM" Name="Chippenham" Address="303430" HasAtoZ="false" XMLURN="303430.xml"/>
+<Station TIPLOC="CHOLSEY" CRS="CHO" Name="Cholsey" Address="30497F" HasAtoZ="false" XMLURN="30497F.xml"/>
+<Station TIPLOC="CLFDOWN" CRS="CFN" Name="Clifton Down" Address="30320C" HasAtoZ="false" XMLURN="30320C.xml"/>
+<Station TIPLOC="COMBE" CRS="CME" Name="Combe" Address="30320D" HasAtoZ="false" XMLURN="30320D.xml"/>
+<Station TIPLOC="COOKHAM" CRS="COO" Name="Cookham" Address="303248" HasAtoZ="false" XMLURN="303248.xml"/>
+<Station TIPLOC="COOMBE" CRS="COE" Name="Coombe Junction Halt" Address="305080" HasAtoZ="false" XMLURN="305080.xml"/>
+<Station TIPLOC="COPLSTN" CRS="COP" Name="Copplestone" Address="30320E" HasAtoZ="false" XMLURN="30320E.xml"/>
+<Station TIPLOC="CREDITN" CRS="CDI" Name="Crediton" Address="30320F" HasAtoZ="false" XMLURN="30320F.xml"/>
+<Station TIPLOC="CRWTHRN" CRS="CRN" Name="Crowthorne" Address="305081" HasAtoZ="false" XMLURN="305081.xml"/>
+<Station TIPLOC="CULHAM" CRS="CUM" Name="Culham" Address="303310" HasAtoZ="false" XMLURN="303310.xml"/>
+<Station TIPLOC="DAWLISH" CRS="DWL" Name="Dawlish" Address="303245" HasAtoZ="false" XMLURN="303245.xml"/>
+<Station TIPLOC="DAWLSHW" CRS="DWW" Name="Dawlish Warren" Address="303311" HasAtoZ="false" XMLURN="303311.xml"/>
+<Station TIPLOC="DEAN" CRS="DEN" Name="Dean" Address="305082" HasAtoZ="false" XMLURN="305082.xml"/>
+<Station TIPLOC="DEVNPRT" CRS="DPT" Name="Devonport" Address="303312" HasAtoZ="false" XMLURN="303312.xml"/>
+<Station TIPLOC="DIDCOTP" CRS="DID" Name="Didcot Parkway" Address="30474F" HasAtoZ="false" XMLURN="30474F.xml"/>
+<Station TIPLOC="DIGBY" CRS="DIG" Name="Digby &amp; Sowton" Address="305084" HasAtoZ="false" XMLURN="305084.xml"/>
+<Station TIPLOC="DILTONM" CRS="DMH" Name="Dilton Marsh" Address="305085" HasAtoZ="false" XMLURN="305085.xml"/>
+<Station TIPLOC="DOCKYDP" CRS="DOC" Name="Dockyard" Address="305086" HasAtoZ="false" XMLURN="305086.xml"/>
+<Station TIPLOC="DRCHW" CRS="DCW" Name="Dorchester West" Address="305088" HasAtoZ="false" XMLURN="305088.xml"/>
+<Station TIPLOC="DEPDENE" CRS="DPD" Name="Dorking Deepdene" Address="305083" HasAtoZ="false" XMLURN="305083.xml"/>
+<Station TIPLOC="DRKGW" CRS="DKT" Name="Dorking West" Address="305089" HasAtoZ="false" XMLURN="305089.xml"/>
+<Station TIPLOC="DRAYGRN" CRS="DRG" Name="Drayton Green" Address="305087" HasAtoZ="false" XMLURN="305087.xml"/>
+<Station TIPLOC="EALINGB" CRS="EAL" Name="Ealing Broadway" Address="304750" HasAtoZ="false" XMLURN="304750.xml"/>
+<Station TIPLOC="EGGESFD" CRS="EGG" Name="Eggesford" Address="303313" HasAtoZ="false" XMLURN="303313.xml"/>
+<Station TIPLOC="EVESHAM" CRS="EVE" Name="Evesham" Address="304751" HasAtoZ="false" XMLURN="304751.xml"/>
+<Station TIPLOC="EXETERC" CRS="EXC" Name="Exeter Central" Address="304752" HasAtoZ="false" XMLURN="304752.xml"/>
+<Station TIPLOC="EXETRSD" CRS="EXD" Name="Exeter St Davids" Address="304753" HasAtoZ="false" XMLURN="304753.xml"/>
+<Station TIPLOC="EXETRST" CRS="EXT" Name="Exeter St Thomas" Address="303314" HasAtoZ="false" XMLURN="303314.xml"/>
+<Station TIPLOC="EXMOUTH" CRS="EXM" Name="Exmouth" Address="30508A" HasAtoZ="false" XMLURN="30508A.xml"/>
+<Station TIPLOC="EXTON" CRS="EXN" Name="Exton" Address="303315" HasAtoZ="false" XMLURN="303315.xml"/>
+<Station TIPLOC="FALMTHD" CRS="FAL" Name="Falmouth Docks" Address="303316" HasAtoZ="false" XMLURN="303316.xml"/>
+<Station TIPLOC="FALMTHT" CRS="FMT" Name="Falmouth Town" Address="303317" HasAtoZ="false" XMLURN="303317.xml"/>
+<Station TIPLOC="FRBRNTH" CRS="FNN" Name="Farnborough North" Address="30508B" HasAtoZ="false" XMLURN="30508B.xml"/>
+<Station TIPLOC="FILTNEW" CRS="FIT" Name="Filton Abbey Wood" Address="304754" HasAtoZ="false" XMLURN="304754.xml"/>
+<Station TIPLOC="FINSTCK" CRS="FIN" Name="Finstock" Address="303318" HasAtoZ="false" XMLURN="303318.xml"/>
+<Station TIPLOC="FRESHFD" CRS="FFD" Name="Freshford" Address="303319" HasAtoZ="false" XMLURN="303319.xml"/>
+<Station TIPLOC="FROME" CRS="FRO" Name="Frome" Address="30508C" HasAtoZ="false" XMLURN="30508C.xml"/>
+<Station TIPLOC="FURZEP" CRS="FZP" Name="Furze Platt" Address="303449" HasAtoZ="false" XMLURN="303449.xml"/>
+<Station TIPLOC="GLOSTER" CRS="GCR" Name="Gloucester" Address="303443" HasAtoZ="false" XMLURN="303443.xml"/>
+<Station TIPLOC="GOMSHAL" CRS="GOM" Name="Gomshall" Address="30508D" HasAtoZ="false" XMLURN="30508D.xml"/>
+<Station TIPLOC="GORASTR" CRS="GOR" Name="Goring &amp; Streatley" Address="30508E" HasAtoZ="false" XMLURN="30508E.xml"/>
+<Station TIPLOC="GFORD" CRS="GFD" Name="Greenford" Address="303246" HasAtoZ="false" XMLURN="303246.xml"/>
+<Station TIPLOC="GUNISLK" CRS="GSL" Name="Gunnislake" Address="30331A" HasAtoZ="false" XMLURN="30331A.xml"/>
+<Station TIPLOC="HANDBRO" CRS="HND" Name="Hanborough" Address="30331B" HasAtoZ="false" XMLURN="30331B.xml"/>
+<Station TIPLOC="HANWELL" CRS="HAN" Name="Hanwell" Address="30508F" HasAtoZ="false" XMLURN="30508F.xml"/>
+<Station TIPLOC="HAYESAH" CRS="HAY" Name="Hayes &amp; Harlington" Address="305090" HasAtoZ="false" XMLURN="305090.xml"/>
+<Station TIPLOC="HAYLE" CRS="HYL" Name="Hayle" Address="30331C" HasAtoZ="false" XMLURN="30331C.xml"/>
+<Station TIPLOC="HNLYOT" CRS="HOT" Name="Henley-on-Thames" Address="305092" HasAtoZ="false" XMLURN="305092.xml"/>
+<Station TIPLOC="HEYFORD" CRS="HYD" Name="Heyford" Address="30331D" HasAtoZ="false" XMLURN="30331D.xml"/>
+<Station TIPLOC="HGHBRDG" CRS="HIG" Name="Highbridge &amp; Burnham" Address="305091" HasAtoZ="false" XMLURN="305091.xml"/>
+<Station TIPLOC="HONYBRN" CRS="HYB" Name="Honeybourne" Address="30331E" HasAtoZ="false" XMLURN="30331E.xml"/>
+<Station TIPLOC="HUNGRFD" CRS="HGD" Name="Hungerford" Address="305093" HasAtoZ="false" XMLURN="305093.xml"/>
+<Station TIPLOC="IVER" CRS="IVR" Name="Iver" Address="305094" HasAtoZ="false" XMLURN="305094.xml"/>
+<Station TIPLOC="IVYBDGE" CRS="IVY" Name="Ivybridge" Address="303420" HasAtoZ="false" XMLURN="303420.xml"/>
+<Station TIPLOC="KEMBLE" CRS="KEM" Name="Kemble" Address="305095" HasAtoZ="false" XMLURN="305095.xml"/>
+<Station TIPLOC="KEYHAM" CRS="KEY" Name="Keyham" Address="305196" HasAtoZ="false" XMLURN="305196.xml"/>
+<Station TIPLOC="KEYNSHM" CRS="KYN" Name="Keynsham" Address="305197" HasAtoZ="false" XMLURN="305197.xml"/>
+<Station TIPLOC="KINGHAM" CRS="KGM" Name="Kingham" Address="305198" HasAtoZ="false" XMLURN="305198.xml"/>
+<Station TIPLOC="KNYMPTN" CRS="KGN" Name="Kings Nympton" Address="305199" HasAtoZ="false" XMLURN="305199.xml"/>
+<Station TIPLOC="KNTBRY" CRS="KIT" Name="Kintbury" Address="303421" HasAtoZ="false" XMLURN="303421.xml"/>
+<Station TIPLOC="LANGLEY" CRS="LNY" Name="Langley" Address="30519A" HasAtoZ="false" XMLURN="30519A.xml"/>
+<Station TIPLOC="LAPFORD" CRS="LAP" Name="Lapford" Address="30519B" HasAtoZ="false" XMLURN="30519B.xml"/>
+<Station TIPLOC="LAWRNCH" CRS="LWH" Name="Lawrence Hill" Address="303422" HasAtoZ="false" XMLURN="303422.xml"/>
+<Station TIPLOC="LELANT" CRS="LEL" Name="Lelant" Address="30519C" HasAtoZ="false" XMLURN="30519C.xml"/>
+<Station TIPLOC="LELANTS" CRS="LTS" Name="Lelant Saltings" Address="30519D" HasAtoZ="false" XMLURN="30519D.xml"/>
+<Station TIPLOC="LISKARD" CRS="LSK" Name="Liskeard" Address="30519E" HasAtoZ="false" XMLURN="30519E.xml"/>
+<Station TIPLOC="LOOE" CRS="LOO" Name="Looe" Address="303423" HasAtoZ="false" XMLURN="303423.xml"/>
+<Station TIPLOC="LSTWTHL" CRS="LOS" Name="Lostwithiel" Address="303424" HasAtoZ="false" XMLURN="303424.xml"/>
+<Station TIPLOC="LUXULYN" CRS="LUX" Name="Luxulyan" Address="30519F" HasAtoZ="false" XMLURN="30519F.xml"/>
+<Station TIPLOC="LYMPSTC" CRS="LYC" Name="Lympstone Commando" Address="3051A0" HasAtoZ="false" XMLURN="3051A0.xml"/>
+<Station TIPLOC="LYMPSTN" CRS="LYM" Name="Lympstone Village" Address="303425" HasAtoZ="false" XMLURN="303425.xml"/>
+<Station TIPLOC="MDNNWTN" CRS="MDN" Name="Maiden Newton" Address="3051A1" HasAtoZ="false" XMLURN="3051A1.xml"/>
+<Station TIPLOC="MDNHEAD" CRS="MAI" Name="Maidenhead" Address="304755" HasAtoZ="false" XMLURN="304755.xml"/>
+<Station TIPLOC="MARLOW" CRS="MLW" Name="Marlow" Address="30344A" HasAtoZ="false" XMLURN="30344A.xml"/>
+<Station TIPLOC="MELKSHM" CRS="MKM" Name="Melksham" Address="303426" HasAtoZ="false" XMLURN="303426.xml"/>
+<Station TIPLOC="MENHENT" CRS="MEN" Name="Menheniot" Address="3051A2" HasAtoZ="false" XMLURN="3051A2.xml"/>
+<Station TIPLOC="MIDGHAM" CRS="MDG" Name="Midgham" Address="303427" HasAtoZ="false" XMLURN="303427.xml"/>
+<Station TIPLOC="MONPELR" CRS="MTP" Name="Montpelier" Address="303428" HasAtoZ="false" XMLURN="303428.xml"/>
+<Station TIPLOC="MOCHARD" CRS="MRD" Name="Morchard Road" Address="303429" HasAtoZ="false" XMLURN="303429.xml"/>
+<Station TIPLOC="MINMARS" CRS="MIM" Name="Moreton-in-Marsh" Address="304756" HasAtoZ="false" XMLURN="304756.xml"/>
+<Station TIPLOC="MTIMER" CRS="MOR" Name="Mortimer" Address="3051A4" HasAtoZ="false" XMLURN="3051A4.xml"/>
+<Station TIPLOC="MOTFONT" CRS="DBG" Name="Mottisfont &amp; Dunbridge" Address="3051A3" HasAtoZ="false" XMLURN="3051A3.xml"/>
+<Station TIPLOC="NAILSEA" CRS="NLS" Name="Nailsea &amp; Backwell" Address="3051A6" HasAtoZ="false" XMLURN="3051A6.xml"/>
+<Station TIPLOC="NEWBURY" CRS="NBY" Name="Newbury" Address="304757" HasAtoZ="false" XMLURN="304757.xml"/>
+<Station TIPLOC="NEWBRYR" CRS="NRC" Name="Newbury Racecourse" Address="3051A7" HasAtoZ="false" XMLURN="3051A7.xml"/>
+<Station TIPLOC="NWCOURT" CRS="NCO" Name="Newcourt" Address="3051AA" HasAtoZ="false" XMLURN="3051AA.xml"/>
+<Station TIPLOC="NEWQUAY" CRS="NQY" Name="Newquay" Address="304760" HasAtoZ="false" XMLURN="304760.xml"/>
+<Station TIPLOC="NABT" CRS="NTA" Name="Newton Abbot" Address="3051A5" HasAtoZ="false" XMLURN="3051A5.xml"/>
+<Station TIPLOC="NSTCYRE" CRS="NTC" Name="Newton St Cyres" Address="3051A8" HasAtoZ="false" XMLURN="3051A8.xml"/>
+<Station TIPLOC="NTHCAMP" CRS="NCM" Name="North Camp" Address="3051A9" HasAtoZ="false" XMLURN="3051A9.xml"/>
+<Station TIPLOC="OLDFLDP" CRS="OLF" Name="Oldfield Park" Address="3051AB" HasAtoZ="false" XMLURN="3051AB.xml"/>
+<Station TIPLOC="OXFD" CRS="OXF" Name="Oxford" Address="304758" HasAtoZ="false" XMLURN="304758.xml"/>
+<Station TIPLOC="PAIGNTN" CRS="PGN" Name="Paignton" Address="3052AC" HasAtoZ="false" XMLURN="3052AC.xml"/>
+<Station TIPLOC="PANGBRN" CRS="PAN" Name="Pangbourne" Address="3052AD" HasAtoZ="false" XMLURN="3052AD.xml"/>
+<Station TIPLOC="PARR" CRS="PAR" Name="Par" Address="3052AE" HasAtoZ="false" XMLURN="3052AE.xml"/>
+<Station TIPLOC="PARSNST" CRS="PSN" Name="Parson Street" Address="3052AF" HasAtoZ="false" XMLURN="3052AF.xml"/>
+<Station TIPLOC="PATCHWY" CRS="PWY" Name="Patchway" Address="3052B0" HasAtoZ="false" XMLURN="3052B0.xml"/>
+<Station TIPLOC="PENMERE" CRS="PNM" Name="Penmere" Address="30342A" HasAtoZ="false" XMLURN="30342A.xml"/>
+<Station TIPLOC="PRYN" CRS="PYN" Name="Penryn" Address="3052B5" HasAtoZ="false" XMLURN="3052B5.xml"/>
+<Station TIPLOC="PENZNCE" CRS="PNZ" Name="Penzance" Address="304759" HasAtoZ="false" XMLURN="304759.xml"/>
+<Station TIPLOC="PERANWL" CRS="PRW" Name="Perranwell" Address="3052B1" HasAtoZ="false" XMLURN="3052B1.xml"/>
+<Station TIPLOC="PERSHOR" CRS="PSH" Name="Pershore" Address="30342B" HasAtoZ="false" XMLURN="30342B.xml"/>
+<Station TIPLOC="PEWSEY" CRS="PEW" Name="Pewsey" Address="3052B2" HasAtoZ="false" XMLURN="3052B2.xml"/>
+<Station TIPLOC="PILNING" CRS="PIL" Name="Pilning" Address="3052B3" HasAtoZ="false" XMLURN="3052B3.xml"/>
+<Station TIPLOC="PLYMTH" CRS="PLY" Name="Plymouth" Address="30475A" HasAtoZ="false" XMLURN="30475A.xml"/>
+<Station TIPLOC="POLSBDG" CRS="POL" Name="Polsloe Bridge" Address="30342C" HasAtoZ="false" XMLURN="30342C.xml"/>
+<Station TIPLOC="PRTSMTA" CRS="PMA" Name="Portsmouth Arms" Address="3052B4" HasAtoZ="false" XMLURN="3052B4.xml"/>
+<Station TIPLOC="QNTRLDW" CRS="QUI" Name="Quintrell Downs" Address="3052B6" HasAtoZ="false" XMLURN="3052B6.xml"/>
+<Station TIPLOC="RDLEY" CRS="RAD" Name="Radley" Address="30342D" HasAtoZ="false" XMLURN="30342D.xml"/>
+<Station TIPLOC="RDNGSTN" CRS="RDG" Name="Reading" Address="303320" HasAtoZ="true" XMLURN="303320.xml"/>
+<Station TIPLOC="REDGWST" CRS="RDW" Name="Reading West" Address="3052B8" HasAtoZ="false" XMLURN="3052B8.xml"/>
+<Station TIPLOC="REDLAND" CRS="RDA" Name="Redland" Address="30342E" HasAtoZ="false" XMLURN="30342E.xml"/>
+<Station TIPLOC="REDRUTH" CRS="RED" Name="Redruth" Address="3052B9" HasAtoZ="false" XMLURN="3052B9.xml"/>
+<Station TIPLOC="RCHE" CRS="ROC" Name="Roche" Address="3052B7" HasAtoZ="false" XMLURN="3052B7.xml"/>
+<Station TIPLOC="ROMSEY" CRS="ROM" Name="Romsey" Address="3052BA" HasAtoZ="false" XMLURN="3052BA.xml"/>
+<Station TIPLOC="SASH" CRS="STS" Name="Saltash" Address="30342F" HasAtoZ="false" XMLURN="30342F.xml"/>
+<Station TIPLOC="SNDHRST" CRS="SND" Name="Sandhurst" Address="3052BE" HasAtoZ="false" XMLURN="3052BE.xml"/>
+<Station TIPLOC="SDPLACE" CRS="SDP" Name="Sandplace" Address="3052BB" HasAtoZ="false" XMLURN="3052BB.xml"/>
+<Station TIPLOC="SEMILLS" CRS="SML" Name="Sea Mills" Address="303530" HasAtoZ="false" XMLURN="303530.xml"/>
+<Station TIPLOC="SVRNBCH" CRS="SVB" Name="Severn Beach" Address="303531" HasAtoZ="false" XMLURN="303531.xml"/>
+<Station TIPLOC="SHALFD" CRS="SFR" Name="Shalford" Address="3052BD" HasAtoZ="false" XMLURN="3052BD.xml"/>
+<Station TIPLOC="SHPLAKE" CRS="SHI" Name="Shiplake" Address="303532" HasAtoZ="false" XMLURN="303532.xml"/>
+<Station TIPLOC="SPTN" CRS="SIP" Name="Shipton" Address="303533" HasAtoZ="false" XMLURN="303533.xml"/>
+<Station TIPLOC="SHAMPTN" CRS="SHH" Name="Shirehampton" Address="303534" HasAtoZ="false" XMLURN="303534.xml"/>
+<Station TIPLOC="SLOUGH" CRS="SLO" Name="Slough" Address="30475B" HasAtoZ="false" XMLURN="30475B.xml"/>
+<Station TIPLOC="SGFORD" CRS="SGN" Name="South Greenford" Address="3052BC" HasAtoZ="false" XMLURN="3052BC.xml"/>
+<Station TIPLOC="STHALL" CRS="STL" Name="Southall" Address="3053C4" HasAtoZ="false" XMLURN="3053C4.xml"/>
+<Station TIPLOC="SADWRD" CRS="SAR" Name="St Andrews Road" Address="303535" HasAtoZ="false" XMLURN="303535.xml"/>
+<Station TIPLOC="STAUSTL" CRS="SAU" Name="St Austell" Address="3052BF" HasAtoZ="false" XMLURN="3052BF.xml"/>
+<Station TIPLOC="STBDXFR" CRS="SBF" Name="St Budeaux Ferry Road" Address="3052C0" HasAtoZ="false" XMLURN="3052C0.xml"/>
+<Station TIPLOC="STBDXVR" CRS="SBV" Name="St Budeaux Victoria Road" Address="3052C1" HasAtoZ="false" XMLURN="3052C1.xml"/>
+<Station TIPLOC="STCLMBR" CRS="SCR" Name="St Columb Road" Address="3053C2" HasAtoZ="false" XMLURN="3053C2.xml"/>
+<Station TIPLOC="STERTH" CRS="SER" Name="St Erth" Address="3053C3" HasAtoZ="false" XMLURN="3053C3.xml"/>
+<Station TIPLOC="STGRMNS" CRS="SGM" Name="St Germans" Address="303536" HasAtoZ="false" XMLURN="303536.xml"/>
+<Station TIPLOC="STIVES" CRS="SIV" Name="St Ives" Address="303541" HasAtoZ="false" XMLURN="303541.xml"/>
+<Station TIPLOC="STJAMSP" CRS="SJP" Name="St James' Park" Address="303537" HasAtoZ="false" XMLURN="303537.xml"/>
+<Station TIPLOC="STKEYNE" CRS="SKN" Name="St Keyne Wishing Well Halt" Address="3053C5" HasAtoZ="false" XMLURN="3053C5.xml"/>
+<Station TIPLOC="STPLTNR" CRS="SRD" Name="Stapleton Road" Address="303538" HasAtoZ="false" XMLURN="303538.xml"/>
+<Station TIPLOC="STRCROS" CRS="SCS" Name="Starcross" Address="303539" HasAtoZ="false" XMLURN="303539.xml"/>
+<Station TIPLOC="STNHSE" CRS="SHU" Name="Stonehouse" Address="3053C6" HasAtoZ="false" XMLURN="3053C6.xml"/>
+<Station TIPLOC="STRUD" CRS="STD" Name="Stroud" Address="3053C7" HasAtoZ="false" XMLURN="3053C7.xml"/>
+<Station TIPLOC="SDON" CRS="SWI" Name="Swindon" Address="30353A" HasAtoZ="false" XMLURN="30353A.xml"/>
+<Station TIPLOC="TACKLEY" CRS="TAC" Name="Tackley" Address="30353B" HasAtoZ="false" XMLURN="30353B.xml"/>
+<Station TIPLOC="TAPLOW" CRS="TAP" Name="Taplow" Address="3053C8" HasAtoZ="false" XMLURN="3053C8.xml"/>
+<Station TIPLOC="TAUNTON" CRS="TAU" Name="Taunton" Address="30475C" HasAtoZ="false" XMLURN="30475C.xml"/>
+<Station TIPLOC="TEINMTH" CRS="TGM" Name="Teignmouth" Address="3053C9" HasAtoZ="false" XMLURN="3053C9.xml"/>
+<Station TIPLOC="THATCHM" CRS="THA" Name="Thatcham" Address="3053CA" HasAtoZ="false" XMLURN="3053CA.xml"/>
+<Station TIPLOC="THEALE" CRS="THE" Name="Theale" Address="3053CB" HasAtoZ="false" XMLURN="3053CB.xml"/>
+<Station TIPLOC="THFORD" CRS="THO" Name="Thornford" Address="3053CC" HasAtoZ="false" XMLURN="3053CC.xml"/>
+<Station TIPLOC="TILHRST" CRS="TLH" Name="Tilehurst" Address="3053CD" HasAtoZ="false" XMLURN="3053CD.xml"/>
+<Station TIPLOC="TIVIPW" CRS="TVP" Name="Tiverton Parkway" Address="3053CE" HasAtoZ="false" XMLURN="3053CE.xml"/>
+<Station TIPLOC="TOPSHAM" CRS="TOP" Name="Topsham" Address="30353C" HasAtoZ="false" XMLURN="30353C.xml"/>
+<Station TIPLOC="TORQUAY" CRS="TQY" Name="Torquay" Address="3053CF" HasAtoZ="false" XMLURN="3053CF.xml"/>
+<Station TIPLOC="TORRE" CRS="TRR" Name="Torre" Address="30353D" HasAtoZ="false" XMLURN="30353D.xml"/>
+<Station TIPLOC="TOTNES" CRS="TOT" Name="Totnes" Address="3053D0" HasAtoZ="false" XMLURN="3053D0.xml"/>
+<Station TIPLOC="TRWBRDG" CRS="TRO" Name="Trowbridge" Address="303431" HasAtoZ="false" XMLURN="303431.xml"/>
+<Station TIPLOC="TRURO" CRS="TRU" Name="Truro" Address="30475D" HasAtoZ="false" XMLURN="30475D.xml"/>
+<Station TIPLOC="TWYFORD" CRS="TWY" Name="Twyford" Address="30475E" HasAtoZ="false" XMLURN="30475E.xml"/>
+<Station TIPLOC="UMBRLGH" CRS="UMB" Name="Umberleigh" Address="303542" HasAtoZ="false" XMLURN="303542.xml"/>
+<Station TIPLOC="WARGRAV" CRS="WGV" Name="Wargrave" Address="30353E" HasAtoZ="false" XMLURN="30353E.xml"/>
+<Station TIPLOC="WRMNSTR" CRS="WMN" Name="Warminster" Address="3053D5" HasAtoZ="false" XMLURN="3053D5.xml"/>
+<Station TIPLOC="WDRYTON" CRS="WDT" Name="West Drayton" Address="3053D1" HasAtoZ="false" XMLURN="3053D1.xml"/>
+<Station TIPLOC="WEALING" CRS="WEA" Name="West Ealing" Address="3053D2" HasAtoZ="false" XMLURN="3053D2.xml"/>
+<Station TIPLOC="WSTBRYW" CRS="WSB" Name="Westbury" Address="303244" HasAtoZ="false" XMLURN="303244.xml"/>
+<Station TIPLOC="WMILTON" CRS="WNM" Name="Weston Milton" Address="30353F" HasAtoZ="false" XMLURN="30353F.xml"/>
+<Station TIPLOC="WSMARE" CRS="WSM" Name="Weston-super-Mare" Address="30475F" HasAtoZ="false" XMLURN="30475F.xml"/>
+<Station TIPLOC="WINDSEC" CRS="WNC" Name="Windsor &amp; Eton" Address="3053D3" HasAtoZ="false" XMLURN="3053D3.xml"/>
+<Station TIPLOC="WORLE" CRS="WOR" Name="Worle" Address="3053D4" HasAtoZ="false" XMLURN="3053D4.xml"/>
+<Station TIPLOC="YATE" CRS="YAE" Name="Yate" Address="303540" HasAtoZ="false" XMLURN="303540.xml"/>
+<Station TIPLOC="YATTON" CRS="YAT" Name="Yatton" Address="3053D6" HasAtoZ="false" XMLURN="3053D6.xml"/>
+<Station TIPLOC="YEOFORD" CRS="YEO" Name="Yeoford" Address="3053D7" HasAtoZ="false" XMLURN="3053D7.xml"/>
+<Station TIPLOC="YOVILPM" CRS="YVP" Name="Yeovil Pen Mill" Address="3054D8" HasAtoZ="false" XMLURN="3054D8.xml"/>
+<Station TIPLOC="YTMNSTR" CRS="YET" Name="Yetminster" Address="3054D9" HasAtoZ="false" XMLURN="3054D9.xml"/>
+</LICC>
+<LICC Name="London Midland" Code="LM">
+<Station TIPLOC="ACOCKSG" CRS="ACG" Name="Acocks Green" Address="304023" HasAtoZ="false" XMLURN="304023.xml"/>
+<Station TIPLOC="ACBG" CRS="ACB" Name="Acton Bridge" Address="304022" HasAtoZ="false" XMLURN="304022.xml"/>
+<Station TIPLOC="ADERLYP" CRS="ADD" Name="Adderley Park" Address="304024" HasAtoZ="false" XMLURN="304024.xml"/>
+<Station TIPLOC="ALBRGHT" CRS="ALB" Name="Albrighton" Address="304025" HasAtoZ="false" XMLURN="304025.xml"/>
+<Station TIPLOC="ALVCHRC" CRS="ALV" Name="Alvechurch" Address="304026" HasAtoZ="false" XMLURN="304026.xml"/>
+<Station TIPLOC="APSLEY" CRS="APS" Name="Apsley" Address="304027" HasAtoZ="false" XMLURN="304027.xml"/>
+<Station TIPLOC="ASPLEYG" CRS="APG" Name="Aspley Guise" Address="304028" HasAtoZ="false" XMLURN="304028.xml"/>
+<Station TIPLOC="ASTON" CRS="AST" Name="Aston" Address="304029" HasAtoZ="false" XMLURN="304029.xml"/>
+<Station TIPLOC="ATHRSTN" CRS="ATH" Name="Atherstone" Address="30402A" HasAtoZ="false" XMLURN="30402A.xml"/>
+<Station TIPLOC="BGRN" CRS="BTG" Name="Barnt Green" Address="30402B" HasAtoZ="false" XMLURN="30402B.xml"/>
+<Station TIPLOC="BEARLEY" CRS="BER" Name="Bearley" Address="30402C" HasAtoZ="false" XMLURN="30402C.xml"/>
+<Station TIPLOC="BEDFDM" CRS="BDM" Name="Bedford" Address="306701" HasAtoZ="false" XMLURN="306701.xml"/>
+<Station TIPLOC="BESJOHN" CRS="BSJ" Name="Bedford St Johns" Address="30402D" HasAtoZ="false" XMLURN="30402D.xml"/>
+<Station TIPLOC="BEDWRTH" CRS="BEH" Name="Bedworth" Address="305621" HasAtoZ="false" XMLURN="305621.xml"/>
+<Station TIPLOC="BERKHMD" CRS="BKM" Name="Berkhamsted" Address="305622" HasAtoZ="false" XMLURN="305622.xml"/>
+<Station TIPLOC="BKSWELL" CRS="BKW" Name="Berkswell" Address="305623" HasAtoZ="false" XMLURN="305623.xml"/>
+<Station TIPLOC="BERMPRK" CRS="BEP" Name="Bermuda Park" Address="305624" HasAtoZ="false" XMLURN="305624.xml"/>
+<Station TIPLOC="BSCTSTA" CRS="BSC" Name="Bescot Stadium" Address="305625" HasAtoZ="false" XMLURN="305625.xml"/>
+<Station TIPLOC="BILBROK" CRS="BBK" Name="Bilbrook" Address="305626" HasAtoZ="false" XMLURN="305626.xml"/>
+<Station TIPLOC="BHAMINT" CRS="BHI" Name="Birmingham International" Address="30572D" HasAtoZ="false" XMLURN="30572D.xml"/>
+<Station TIPLOC="BHAMMRS" CRS="BMO" Name="Birmingham Moor Street" Address="304816" HasAtoZ="false" XMLURN="304816.xml"/>
+<Station TIPLOC="BHAMNWS" CRS="BHM" Name="Birmingham New Street" Address="3041FE" HasAtoZ="false" XMLURN="3041FE.xml"/>
+<Station TIPLOC="BHAMSNH" CRS="BSW" Name="Birmingham Snow Hill" Address="305627" HasAtoZ="false" XMLURN="305627.xml"/>
+<Station TIPLOC="BLKST" CRS="BKT" Name="Blake Street" Address="305628" HasAtoZ="false" XMLURN="305628.xml"/>
+<Station TIPLOC="BLAKEDN" CRS="BKD" Name="Blakedown" Address="305629" HasAtoZ="false" XMLURN="305629.xml"/>
+<Station TIPLOC="BLTCHLY" CRS="BLY" Name="Bletchley" Address="30562A" HasAtoZ="false" XMLURN="30562A.xml"/>
+<Station TIPLOC="BLOXWCH" CRS="BLX" Name="Bloxwich" Address="30562B" HasAtoZ="false" XMLURN="30562B.xml"/>
+<Station TIPLOC="BLOXN" CRS="BWN" Name="Bloxwich North" Address="30562C" HasAtoZ="false" XMLURN="30562C.xml"/>
+<Station TIPLOC="BOURNVL" CRS="BRV" Name="Bournville" Address="305721" HasAtoZ="false" XMLURN="305721.xml"/>
+<Station TIPLOC="BOWBRKH" CRS="BWB" Name="Bow Brickhill" Address="305722" HasAtoZ="false" XMLURN="305722.xml"/>
+<Station TIPLOC="BCWD" CRS="BWO" Name="Bricket Wood" Address="305723" HasAtoZ="false" XMLURN="305723.xml"/>
+<Station TIPLOC="BRMSGRV" CRS="BMV" Name="Bromsgrove" Address="305724" HasAtoZ="false" XMLURN="305724.xml"/>
+<Station TIPLOC="BUSHEY" CRS="BSH" Name="Bushey" Address="305725" HasAtoZ="false" XMLURN="305725.xml"/>
+<Station TIPLOC="BTLRSLA" CRS="BUL" Name="Butlers Lane" Address="305726" HasAtoZ="false" XMLURN="305726.xml"/>
+<Station TIPLOC="CANLEY" CRS="CNL" Name="Canley" Address="305727" HasAtoZ="false" XMLURN="305727.xml"/>
+<Station TIPLOC="CNCK" CRS="CAO" Name="Cannock" Address="305728" HasAtoZ="false" XMLURN="305728.xml"/>
+<Station TIPLOC="CHDNGTN" CRS="CED" Name="Cheddington" Address="305729" HasAtoZ="false" XMLURN="305729.xml"/>
+<Station TIPLOC="CHSRD" CRS="CRD" Name="Chester Road" Address="30572A" HasAtoZ="false" XMLURN="30572A.xml"/>
+<Station TIPLOC="CLAVRDN" CRS="CLV" Name="Claverdon" Address="30572B" HasAtoZ="false" XMLURN="30572B.xml"/>
+<Station TIPLOC="CODSALL" CRS="CSL" Name="Codsall" Address="30572C" HasAtoZ="false" XMLURN="30572C.xml"/>
+<Station TIPLOC="COLESHL" CRS="CEH" Name="Coleshill Parkway" Address="305821" HasAtoZ="false" XMLURN="305821.xml"/>
+<Station TIPLOC="CLWALL" CRS="CWL" Name="Colwall" Address="305822" HasAtoZ="false" XMLURN="305822.xml"/>
+<Station TIPLOC="COSELEY" CRS="CSY" Name="Coseley" Address="305823" HasAtoZ="false" XMLURN="305823.xml"/>
+<Station TIPLOC="COSFORD" CRS="COS" Name="Cosford" Address="305824" HasAtoZ="false" XMLURN="305824.xml"/>
+<Station TIPLOC="COVNTRY" CRS="COV" Name="Coventry" Address="30582D" HasAtoZ="false" XMLURN="30582D.xml"/>
+<Station TIPLOC="COVAREN" CRS="CAA" Name="Coventry Arena" Address="305825" HasAtoZ="false" XMLURN="305825.xml"/>
+<Station TIPLOC="CRADLYH" CRS="CRA" Name="Cradley Heath" Address="305826" HasAtoZ="false" XMLURN="305826.xml"/>
+<Station TIPLOC="CREWE" CRS="CRE" Name="Crewe" Address="30562D" HasAtoZ="false" XMLURN="30562D.xml"/>
+<Station TIPLOC="DANZEY" CRS="DZY" Name="Danzey" Address="305827" HasAtoZ="false" XMLURN="305827.xml"/>
+<Station TIPLOC="DORIDGE" CRS="DDG" Name="Dorridge" Address="305828" HasAtoZ="false" XMLURN="305828.xml"/>
+<Station TIPLOC="DRTWCHS" CRS="DTW" Name="Droitwich Spa" Address="305829" HasAtoZ="false" XMLURN="305829.xml"/>
+<Station TIPLOC="DUDESTN" CRS="DUD" Name="Duddeston" Address="30582A" HasAtoZ="false" XMLURN="30582A.xml"/>
+<Station TIPLOC="DUDLPT" CRS="DDP" Name="Dudley Port" Address="30582B" HasAtoZ="false" XMLURN="30582B.xml"/>
+<Station TIPLOC="ELWD" CRS="EWD" Name="Earlswood (West Midlands)" Address="30582C" HasAtoZ="false" XMLURN="30582C.xml"/>
+<Station TIPLOC="ERDNGTN" CRS="ERD" Name="Erdington" Address="305921" HasAtoZ="false" XMLURN="305921.xml"/>
+<Station TIPLOC="FSTR" CRS="FEN" Name="Fenny Stratford" Address="305922" HasAtoZ="false" XMLURN="305922.xml"/>
+<Station TIPLOC="FIVEWYS" CRS="FWY" Name="Five Ways" Address="305923" HasAtoZ="false" XMLURN="305923.xml"/>
+<Station TIPLOC="FOUROKS" CRS="FOK" Name="Four Oaks" Address="305924" HasAtoZ="false" XMLURN="305924.xml"/>
+<Station TIPLOC="GRSTH" CRS="GSN" Name="Garston (Hertfordshire)" Address="305925" HasAtoZ="false" XMLURN="305925.xml"/>
+<Station TIPLOC="GRAVLYH" CRS="GVH" Name="Gravelly Hill" Address="305926" HasAtoZ="false" XMLURN="305926.xml"/>
+<Station TIPLOC="GTMLVRN" CRS="GMV" Name="Great Malvern" Address="305927" HasAtoZ="false" XMLURN="305927.xml"/>
+<Station TIPLOC="HAGLEY" CRS="HAG" Name="Hagley" Address="305928" HasAtoZ="false" XMLURN="305928.xml"/>
+<Station TIPLOC="HLGN" CRS="HLG" Name="Hall Green" Address="305929" HasAtoZ="false" XMLURN="305929.xml"/>
+<Station TIPLOC="HMPTNIA" CRS="HIA" Name="Hampton-in-Arden" Address="30592A" HasAtoZ="false" XMLURN="30592A.xml"/>
+<Station TIPLOC="HAMSTED" CRS="HSD" Name="Hamstead" Address="30592B" HasAtoZ="false" XMLURN="30592B.xml"/>
+<Station TIPLOC="HARTFD" CRS="HTF" Name="Hartford" Address="30592C" HasAtoZ="false" XMLURN="30592C.xml"/>
+<Station TIPLOC="HBRY" CRS="HBY" Name="Hartlebury" Address="306021" HasAtoZ="false" XMLURN="306021.xml"/>
+<Station TIPLOC="HATTON" CRS="HTN" Name="Hatton" Address="30481A" HasAtoZ="false" XMLURN="30481A.xml"/>
+<Station TIPLOC="HDNS" CRS="HNF" Name="Hednesford" Address="306023" HasAtoZ="false" XMLURN="306023.xml"/>
+<Station TIPLOC="HEMLHMP" CRS="HML" Name="Hemel Hempstead" Address="306024" HasAtoZ="false" XMLURN="306024.xml"/>
+<Station TIPLOC="HENLYIA" CRS="HNL" Name="Henley-in-Arden" Address="306025" HasAtoZ="false" XMLURN="306025.xml"/>
+<Station TIPLOC="HEREFRD" CRS="HFD" Name="Hereford" Address="3046AB" HasAtoZ="false" XMLURN="3046AB.xml"/>
+<Station TIPLOC="HOWWOOD" CRS="HWW" Name="How Wood" Address="306026" HasAtoZ="false" XMLURN="306026.xml"/>
+<Station TIPLOC="BHAMJEW" CRS="JEQ" Name="Jewellery Quarter" Address="306027" HasAtoZ="false" XMLURN="306027.xml"/>
+<Station TIPLOC="KMPSTNH" CRS="KMH" Name="Kempston Hardwick" Address="306028" HasAtoZ="false" XMLURN="306028.xml"/>
+<Station TIPLOC="KDRMNST" CRS="KID" Name="Kidderminster" Address="306029" HasAtoZ="false" XMLURN="306029.xml"/>
+<Station TIPLOC="KLGL" CRS="KGL" Name="Kings Langley" Address="30602A" HasAtoZ="false" XMLURN="30602A.xml"/>
+<Station TIPLOC="KNORTON" CRS="KNN" Name="Kings Norton" Address="30602B" HasAtoZ="false" XMLURN="30602B.xml"/>
+<Station TIPLOC="LNDYW" CRS="LAW" Name="Landywood" Address="30602C" HasAtoZ="false" XMLURN="30602C.xml"/>
+<Station TIPLOC="LGRN" CRS="LGG" Name="Langley Green" Address="306121" HasAtoZ="false" XMLURN="306121.xml"/>
+<Station TIPLOC="LAPWRTH" CRS="LPW" Name="Lapworth" Address="306801" HasAtoZ="false" XMLURN="306801.xml"/>
+<Station TIPLOC="LEAHALL" CRS="LEH" Name="Lea Hall" Address="306122" HasAtoZ="false" XMLURN="306122.xml"/>
+<Station TIPLOC="LMNGTNS" CRS="LMS" Name="Leamington Spa" Address="304817" HasAtoZ="false" XMLURN="304817.xml"/>
+<Station TIPLOC="LDBURY" CRS="LED" Name="Ledbury" Address="306123" HasAtoZ="false" XMLURN="306123.xml"/>
+<Station TIPLOC="LTNBZRD" CRS="LBZ" Name="Leighton Buzzard" Address="306124" HasAtoZ="false" XMLURN="306124.xml"/>
+<Station TIPLOC="LCHC" CRS="LIC" Name="Lichfield City" Address="306125" HasAtoZ="false" XMLURN="306125.xml"/>
+<Station TIPLOC="LCHTTVL" CRS="LTV" Name="Lichfield Trent Valley" Address="306126" HasAtoZ="false" XMLURN="306126.xml"/>
+<Station TIPLOC="LDLNGTN" CRS="LID" Name="Lidlington" Address="306127" HasAtoZ="false" XMLURN="306127.xml"/>
+<Station TIPLOC="LVRPLSH" CRS="LIV" Name="Liverpool Lime Street" Address="302470" HasAtoZ="false" XMLURN="302470.xml"/>
+<Station TIPLOC="EUSTON" CRS="EUS" Name="London Euston" Address="301342" HasAtoZ="false" XMLURN="301342.xml"/>
+<Station TIPLOC="LNGBKBY" CRS="LBK" Name="Long Buckby" Address="306128" HasAtoZ="false" XMLURN="306128.xml"/>
+<Station TIPLOC="LONB" CRS="LOB" Name="Longbridge" Address="306129" HasAtoZ="false" XMLURN="306129.xml"/>
+<Station TIPLOC="LYEE" CRS="LYE" Name="Lye" Address="30612A" HasAtoZ="false" XMLURN="30612A.xml"/>
+<Station TIPLOC="MLVRNLK" CRS="MVL" Name="Malvern Link" Address="30612B" HasAtoZ="false" XMLURN="30612B.xml"/>
+<Station TIPLOC="MRSTNGR" CRS="MGN" Name="Marston Green" Address="30612C" HasAtoZ="false" XMLURN="30612C.xml"/>
+<Station TIPLOC="MLBRKB" CRS="MLB" Name="Millbrook (Bedfordshire)" Address="306221" HasAtoZ="false" XMLURN="306221.xml"/>
+<Station TIPLOC="MKNSCEN" CRS="MKC" Name="Milton Keynes Central" Address="304021" HasAtoZ="false" XMLURN="304021.xml"/>
+<Station TIPLOC="NMPTN" CRS="NMP" Name="Northampton" Address="306222" HasAtoZ="false" XMLURN="306222.xml"/>
+<Station TIPLOC="NRTF" CRS="NFD" Name="Northfield" Address="306223" HasAtoZ="false" XMLURN="306223.xml"/>
+<Station TIPLOC="NNTN" CRS="NUN" Name="Nuneaton" Address="306224" HasAtoZ="false" XMLURN="306224.xml"/>
+<Station TIPLOC="OAKNGTS" CRS="OKN" Name="Oakengates" Address="306225" HasAtoZ="false" XMLURN="306225.xml"/>
+<Station TIPLOC="OLHL" CRS="OHL" Name="Old Hill" Address="306226" HasAtoZ="false" XMLURN="306226.xml"/>
+<Station TIPLOC="OLTON" CRS="OLT" Name="Olton" Address="306227" HasAtoZ="false" XMLURN="306227.xml"/>
+<Station TIPLOC="PKST" CRS="PKT" Name="Park Street" Address="306228" HasAtoZ="false" XMLURN="306228.xml"/>
+<Station TIPLOC="PNKRDG" CRS="PKG" Name="Penkridge" Address="306229" HasAtoZ="false" XMLURN="306229.xml"/>
+<Station TIPLOC="PRYBR" CRS="PRY" Name="Perry Barr" Address="30622A" HasAtoZ="false" XMLURN="30622A.xml"/>
+<Station TIPLOC="RDIT" CRS="RDC" Name="Redditch" Address="30622B" HasAtoZ="false" XMLURN="30622B.xml"/>
+<Station TIPLOC="RIDGMNT" CRS="RID" Name="Ridgmont" Address="30622C" HasAtoZ="false" XMLURN="30622C.xml"/>
+<Station TIPLOC="ROWLEYR" CRS="ROW" Name="Rowley Regis" Address="306321" HasAtoZ="false" XMLURN="306321.xml"/>
+<Station TIPLOC="RUGBY" CRS="RUG" Name="Rugby" Address="30402E" HasAtoZ="false" XMLURN="30402E.xml"/>
+<Station TIPLOC="RUGLTWN" CRS="RGT" Name="Rugeley Town" Address="306322" HasAtoZ="false" XMLURN="306322.xml"/>
+<Station TIPLOC="RUGL" CRS="RGL" Name="Rugeley Trent Valley" Address="306323" HasAtoZ="false" XMLURN="306323.xml"/>
+<Station TIPLOC="RUNCORN" CRS="RUN" Name="Runcorn" Address="30612D" HasAtoZ="false" XMLURN="30612D.xml"/>
+<Station TIPLOC="SNDWDUD" CRS="SAD" Name="Sandwell &amp; Dudley" Address="306324" HasAtoZ="false" XMLURN="306324.xml"/>
+<Station TIPLOC="SELYOAK" CRS="SLY" Name="Selly Oak" Address="306325" HasAtoZ="false" XMLURN="306325.xml"/>
+<Station TIPLOC="SHNS" CRS="SEN" Name="Shenstone" Address="306326" HasAtoZ="false" XMLURN="306326.xml"/>
+<Station TIPLOC="SHIFNAL" CRS="SFN" Name="Shifnal" Address="306327" HasAtoZ="false" XMLURN="306327.xml"/>
+<Station TIPLOC="SHIRLEY" CRS="SRL" Name="Shirley" Address="306328" HasAtoZ="false" XMLURN="306328.xml"/>
+<Station TIPLOC="SHRWBY" CRS="SHR" Name="Shrewsbury" Address="3046A8" HasAtoZ="false" XMLURN="3046A8.xml"/>
+<Station TIPLOC="SMLHTH" CRS="SMA" Name="Small Heath" Address="306329" HasAtoZ="false" XMLURN="306329.xml"/>
+<Station TIPLOC="GALTINT" CRS="SGB" Name="Smethwick Galton Bdg H.L." Address="30632A" HasAtoZ="false" XMLURN="30632A.xml"/>
+<Station TIPLOC="SMTHKRS" CRS="SMR" Name="Smethwick Rolfe Street" Address="30632B" HasAtoZ="false" XMLURN="30632B.xml"/>
+<Station TIPLOC="SOLIHUL" CRS="SOL" Name="Solihull" Address="30632C" HasAtoZ="false" XMLURN="30632C.xml"/>
+<Station TIPLOC="SPRD" CRS="SRI" Name="Spring Road" Address="306421" HasAtoZ="false" XMLURN="306421.xml"/>
+<Station TIPLOC="STALBNA" CRS="SAA" Name="St Albans Abbey" Address="306422" HasAtoZ="false" XMLURN="306422.xml"/>
+<Station TIPLOC="STAFFRD" CRS="STA" Name="Stafford" Address="30592D" HasAtoZ="false" XMLURN="30592D.xml"/>
+<Station TIPLOC="STECHFD" CRS="SCF" Name="Stechford" Address="306423" HasAtoZ="false" XMLURN="306423.xml"/>
+<Station TIPLOC="STWRTBY" CRS="SWR" Name="Stewartby" Address="306424" HasAtoZ="false" XMLURN="306424.xml"/>
+<Station TIPLOC="STOKEOT" CRS="SOT" Name="Stoke-on-Trent" Address="30622D" HasAtoZ="false" XMLURN="30622D.xml"/>
+<Station TIPLOC="STONE" CRS="SNE" Name="Stone" Address="306425" HasAtoZ="false" XMLURN="306425.xml"/>
+<Station TIPLOC="STRBDGJ" CRS="SBJ" Name="Stourbridge Junction" Address="306426" HasAtoZ="false" XMLURN="306426.xml"/>
+<Station TIPLOC="STRBDGT" CRS="SBT" Name="Stourbridge Town" Address="306427" HasAtoZ="false" XMLURN="306427.xml"/>
+<Station TIPLOC="SOAV" CRS="SAV" Name="Stratford-upon-Avon" Address="306428" HasAtoZ="false" XMLURN="306428.xml"/>
+<Station TIPLOC="SOAVPWY" CRS="STY" Name="Stratford-upon-Avon Parkway" Address="306429" HasAtoZ="false" XMLURN="306429.xml"/>
+<Station TIPLOC="SUTCO" CRS="SUT" Name="Sutton Coldfield" Address="30642A" HasAtoZ="false" XMLURN="30642A.xml"/>
+<Station TIPLOC="TAMEBDG" CRS="TAB" Name="Tame Bridge Parkway" Address="30642B" HasAtoZ="false" XMLURN="30642B.xml"/>
+<Station TIPLOC="TMWTHHL" CRS="TAH" Name="Tamworth" Address="30642C" HasAtoZ="false" XMLURN="30642C.xml"/>
+<Station TIPLOC="TELFRDC" CRS="TFC" Name="Telford Central" Address="306521" HasAtoZ="false" XMLURN="306521.xml"/>
+<Station TIPLOC="HNDSHWT" CRS="THW" Name="The Hawthorns" Address="306022" HasAtoZ="false" XMLURN="306022.xml"/>
+<Station TIPLOC="THELAKS" CRS="TLK" Name="The Lakes" Address="306522" HasAtoZ="false" XMLURN="306522.xml"/>
+<Station TIPLOC="TILEH" CRS="THL" Name="Tile Hill" Address="306523" HasAtoZ="false" XMLURN="306523.xml"/>
+<Station TIPLOC="TIPTON" CRS="TIP" Name="Tipton" Address="306524" HasAtoZ="false" XMLURN="306524.xml"/>
+<Station TIPLOC="TRING" CRS="TRI" Name="Tring" Address="306525" HasAtoZ="false" XMLURN="306525.xml"/>
+<Station TIPLOC="TYSL" CRS="TYS" Name="Tyseley" Address="306526" HasAtoZ="false" XMLURN="306526.xml"/>
+<Station TIPLOC="UNVRSYB" CRS="UNI" Name="University" Address="306527" HasAtoZ="false" XMLURN="306527.xml"/>
+<Station TIPLOC="WALSALL" CRS="WSL" Name="Walsall" Address="306528" HasAtoZ="false" XMLURN="306528.xml"/>
+<Station TIPLOC="WARWICK" CRS="WRW" Name="Warwick" Address="304818" HasAtoZ="false" XMLURN="304818.xml"/>
+<Station TIPLOC="WARWPWY" CRS="WRP" Name="Warwick Parkway" Address="304819" HasAtoZ="false" XMLURN="304819.xml"/>
+<Station TIPLOC="WTRORTN" CRS="WTO" Name="Water Orton" Address="306529" HasAtoZ="false" XMLURN="306529.xml"/>
+<Station TIPLOC="WATFDJ" CRS="WFJ" Name="Watford Junction" Address="30652A" HasAtoZ="false" XMLURN="30652A.xml"/>
+<Station TIPLOC="WATFDN" CRS="WFN" Name="Watford North" Address="30652B" HasAtoZ="false" XMLURN="30652B.xml"/>
+<Station TIPLOC="WELNGTN" CRS="WLN" Name="Wellington (Shropshire)" Address="30652C" HasAtoZ="false" XMLURN="30652C.xml"/>
+<Station TIPLOC="WHLE" CRS="WTE" Name="Whitlocks End" Address="306621" HasAtoZ="false" XMLURN="306621.xml"/>
+<Station TIPLOC="WDNYMNR" CRS="WMR" Name="Widney Manor" Address="306622" HasAtoZ="false" XMLURN="306622.xml"/>
+<Station TIPLOC="WILMCOT" CRS="WMC" Name="Wilmcote" Address="306623" HasAtoZ="false" XMLURN="306623.xml"/>
+<Station TIPLOC="WILNECT" CRS="WNE" Name="Wilnecote" Address="306624" HasAtoZ="false" XMLURN="306624.xml"/>
+<Station TIPLOC="WNSFD" CRS="WSF" Name="Winsford" Address="306625" HasAtoZ="false" XMLURN="306625.xml"/>
+<Station TIPLOC="WITTON" CRS="WTT" Name="Witton" Address="306626" HasAtoZ="false" XMLURN="306626.xml"/>
+<Station TIPLOC="WOBURNS" CRS="WOB" Name="Woburn Sands" Address="306627" HasAtoZ="false" XMLURN="306627.xml"/>
+<Station TIPLOC="WVRMPTN" CRS="WVH" Name="Wolverhampton" Address="30602D" HasAtoZ="false" XMLURN="30602D.xml"/>
+<Station TIPLOC="WLVR" CRS="WOL" Name="Wolverton" Address="306628" HasAtoZ="false" XMLURN="306628.xml"/>
+<Station TIPLOC="WDND" CRS="WDE" Name="Wood End" Address="306629" HasAtoZ="false" XMLURN="306629.xml"/>
+<Station TIPLOC="WOTONWN" CRS="WWW" Name="Wootton Wawen" Address="30662A" HasAtoZ="false" XMLURN="30662A.xml"/>
+<Station TIPLOC="WORCSFS" CRS="WOF" Name="Worcester Foregate Street" Address="30662B" HasAtoZ="false" XMLURN="30662B.xml"/>
+<Station TIPLOC="WORCSSH" CRS="WOS" Name="Worcester Shrub Hill" Address="30662C" HasAtoZ="false" XMLURN="30662C.xml"/>
+<Station TIPLOC="WYGN" CRS="WYL" Name="Wylde Green" Address="30662D" HasAtoZ="false" XMLURN="30662D.xml"/>
+<Station TIPLOC="WYTH" CRS="WYT" Name="Wythall" Address="30662E" HasAtoZ="false" XMLURN="30662E.xml"/>
+<Station TIPLOC="YRDLYWD" CRS="YRD" Name="Yardley Wood" Address="30662F" HasAtoZ="false" XMLURN="30662F.xml"/>
+</LICC>
+<LICC Name="Network Rail" Code="NR">
+<Station TIPLOC="BHAMNWS" CRS="BHM" Name="Birmingham New Street" Address="3041FE" HasAtoZ="false" XMLURN="3041FE.xml"/>
+<Station TIPLOC="EDINBUR" CRS="EDB" Name="Edinburgh" Address="3010D2" HasAtoZ="false" XMLURN="3010D2.xml"/>
+<Station TIPLOC="GLGC" CRS="GLC" Name="Glasgow Central" Address="3010D1" HasAtoZ="false" XMLURN="3010D1.xml"/>
+<Station TIPLOC="LEEDS" CRS="LDS" Name="Leeds" Address="3009A2" HasAtoZ="false" XMLURN="3009A2.xml"/>
+<Station TIPLOC="LVRPLSH" CRS="LIV" Name="Liverpool Lime Street" Address="302470" HasAtoZ="false" XMLURN="302470.xml"/>
+<Station TIPLOC="LNDNBDE" CRS="LBG" Name="London Bridge" Address="30274F" HasAtoZ="false" XMLURN="30274F.xml"/>
+<Station TIPLOC="CANONST" CRS="CST" Name="London Cannon Street" Address="30274D" HasAtoZ="false" XMLURN="30274D.xml"/>
+<Station TIPLOC="CHRX" CRS="CHX" Name="London Charing Cross" Address="30274E" HasAtoZ="false" XMLURN="30274E.xml"/>
+<Station TIPLOC="EUSTON" CRS="EUS" Name="London Euston" Address="301342" HasAtoZ="false" XMLURN="301342.xml"/>
+<Station TIPLOC="KNGX" CRS="KGX" Name="London Kings Cross" Address="3008A1" HasAtoZ="true" XMLURN="3008A1.xml"/>
+<Station TIPLOC="PADTON" CRS="PAD" Name="London Paddington" Address="3004A0" HasAtoZ="false" XMLURN="3004A0.xml"/>
+<Station TIPLOC="MNCRPIC" CRS="MAN" Name="Manchester Piccadilly" Address="302492" HasAtoZ="false" XMLURN="302492.xml"/>
+<Station TIPLOC="STPXBOX" CRS="SPL" Name="St Pancras International" Address="3039A1" HasAtoZ="false" XMLURN="3039A1.xml"/>
+</LICC>
+<LICC Name="Northern" Code="NT">
+<Station TIPLOC="BTRSBY" CRS="BTT" Name="Battersby" Address="3031A7" HasAtoZ="false" XMLURN="3031A7.xml"/>
+<Station TIPLOC="BLRD" CRS="BLK" Name="Blackrod" Address="3031B1" HasAtoZ="false" XMLURN="3031B1.xml"/>
+<Station TIPLOC="BOLTON" CRS="BON" Name="Bolton" Address="3031B2" HasAtoZ="false" XMLURN="3031B2.xml"/>
+<Station TIPLOC="CTNM" CRS="CSM" Name="Castleton Moor" Address="3031AA" HasAtoZ="false" XMLURN="3031AA.xml"/>
+<Station TIPLOC="COMONDL" CRS="COM" Name="Commondale" Address="3031A9" HasAtoZ="false" XMLURN="3031A9.xml"/>
+<Station TIPLOC="DANBY" CRS="DNY" Name="Danby" Address="3031AB" HasAtoZ="false" XMLURN="3031AB.xml"/>
+<Station TIPLOC="EGTON" CRS="EGT" Name="Egton" Address="3031AD" HasAtoZ="false" XMLURN="3031AD.xml"/>
+<Station TIPLOC="GLAISDL" CRS="GLS" Name="Glaisdale" Address="3031AC" HasAtoZ="false" XMLURN="3031AC.xml"/>
+<Station TIPLOC="GTAYTON" CRS="GTA" Name="Great Ayton" Address="3031A6" HasAtoZ="false" XMLURN="3031A6.xml"/>
+<Station TIPLOC="GROSMNT" CRS="GMT" Name="Grosmont" Address="3031A0" HasAtoZ="false" XMLURN="3031A0.xml"/>
+<Station TIPLOC="GYPSYLA" CRS="GYP" Name="Gypsy Lane" Address="3031A4" HasAtoZ="false" XMLURN="3031A4.xml"/>
+<Station TIPLOC="HULL" CRS="HUL" Name="Hull" Address="3031B3" HasAtoZ="false" XMLURN="3031B3.xml"/>
+<Station TIPLOC="KLDL" CRS="KLD" Name="Kildale" Address="3031A8" HasAtoZ="false" XMLURN="3031A8.xml"/>
+<Station TIPLOC="LEALHLM" CRS="LHM" Name="Lealholm" Address="3031A2" HasAtoZ="false" XMLURN="3031A2.xml"/>
+<Station TIPLOC="MNCRVIC" CRS="MCV" Name="Manchester Victoria" Address="3031B4" HasAtoZ="false" XMLURN="3031B4.xml"/>
+<Station TIPLOC="MARTON" CRS="MTO" Name="Marton" Address="3031A3" HasAtoZ="false" XMLURN="3031A3.xml"/>
+<Station TIPLOC="GTSHDMC" CRS="MCE" Name="Metrocentre" Address="3031B0" HasAtoZ="false" XMLURN="3031B0.xml"/>
+<Station TIPLOC="NUNTHRP" CRS="NNT" Name="Nunthorpe" Address="3031A5" HasAtoZ="false" XMLURN="3031A5.xml"/>
+<Station TIPLOC="RUSWARP" CRS="RUS" Name="Ruswarp" Address="3031AF" HasAtoZ="false" XMLURN="3031AF.xml"/>
+<Station TIPLOC="SLEGHTS" CRS="SLH" Name="Sleights" Address="3031AE" HasAtoZ="false" XMLURN="3031AE.xml"/>
+<Station TIPLOC="WTBY" CRS="WTB" Name="Whitby" Address="3031A1" HasAtoZ="false" XMLURN="3031A1.xml"/>
+</LICC>
+<LICC Name="ScotRail" Code="SR">
+<Station TIPLOC="ABRDEE" CRS="ABD" Name="Aberdeen" Address="3015A1" HasAtoZ="false" XMLURN="3015A1.xml"/>
+<Station TIPLOC="GLGCLL" CRS="GCL" Name="Glasgow Central Low level" Address="3016A2" HasAtoZ="false" XMLURN="3016A2.xml"/>
+<Station TIPLOC="GLGQHL" CRS="GLQ" Name="Glasgow Queen Street" Address="3016A1" HasAtoZ="false" XMLURN="3016A1.xml"/>
+<Station TIPLOC="PSLYGST" CRS="PYG" Name="Paisley Gilmour Street" Address="3016A4" HasAtoZ="false" XMLURN="3016A4.xml"/>
+<Station TIPLOC="PTCK" CRS="PTK" Name="Partick" Address="3016A3" HasAtoZ="false" XMLURN="3016A3.xml"/>
+<Station TIPLOC="PWCKAPT" CRS="PRA" Name="Prestwick Int. Airport" Address="3016A6" HasAtoZ="false" XMLURN="3016A6.xml"/>
+<Station TIPLOC="RTHGLEN" CRS="RUT" Name="Rutherglen" Address="3016A5" HasAtoZ="false" XMLURN="3016A5.xml"/>
+</LICC>
+<LICC Name="South West Trains" Code="SWT">
+<Station TIPLOC="WOKING" CRS="WOK" Name="Woking" Address="304815" HasAtoZ="false" XMLURN="304815.xml"/>
+</LICC>
+<LICC Name="Translink NI Railways" Code="NIR">
+<Station TIPLOC="AD" CRS="ADA" Name="Adelaide" Address="3042A0" HasAtoZ="false" XMLURN="3042A0.xml"/>
+<Station TIPLOC="AN" CRS="ANA" Name="Antrim" Address="3042A1" HasAtoZ="false" XMLURN="3042A1.xml"/>
+<Station TIPLOC="BC" CRS="BCA" Name="Ballycarry" Address="3042A3" HasAtoZ="false" XMLURN="3042A3.xml"/>
+<Station TIPLOC="BA" CRS="BAA" Name="Ballymena" Address="3042A2" HasAtoZ="false" XMLURN="3042A2.xml"/>
+<Station TIPLOC="BY" CRS="BYA" Name="Ballymoney" Address="3042AA" HasAtoZ="false" XMLURN="3042AA.xml"/>
+<Station TIPLOC="BL" CRS="BLA" Name="Balmoral" Address="3042A5" HasAtoZ="false" XMLURN="3042A5.xml"/>
+<Station TIPLOC="BR" CRS="BRA" Name="Bangor" Address="3042A7" HasAtoZ="false" XMLURN="3042A7.xml"/>
+<Station TIPLOC="BW" CRS="BWA" Name="Bangor West" Address="3042A9" HasAtoZ="false" XMLURN="3042A9.xml"/>
+<Station TIPLOC="CL" CRS="CLA" Name="Belfast Central" Address="3043AF" HasAtoZ="false" XMLURN="3043AF.xml"/>
+<Station TIPLOC="BN" CRS="BNA" Name="Bellarena" Address="3042A6" HasAtoZ="false" XMLURN="3042A6.xml"/>
+<Station TIPLOC="BT" CRS="BTA" Name="Botanic" Address="3042A8" HasAtoZ="false" XMLURN="3042A8.xml"/>
+<Station TIPLOC="CA" CRS="CAA" Name="Carnalea" Address="3042AB" HasAtoZ="false" XMLURN="3042AB.xml"/>
+<Station TIPLOC="CS" CRS="CSA" Name="Carrickfergus" Address="3043B1" HasAtoZ="false" XMLURN="3043B1.xml"/>
+<Station TIPLOC="CK" CRS="CKA" Name="Castlerock" Address="3042AE" HasAtoZ="false" XMLURN="3042AE.xml"/>
+<Station TIPLOC="CH" CRS="CHA" Name="City Hospital" Address="3042AD" HasAtoZ="false" XMLURN="3042AD.xml"/>
+<Station TIPLOC="CP" CRS="CPA" Name="Clipperstown" Address="3043B0" HasAtoZ="false" XMLURN="3043B0.xml"/>
+<Station TIPLOC="CE" CRS="CEA" Name="Coleraine" Address="3042AC" HasAtoZ="false" XMLURN="3042AC.xml"/>
+<Station TIPLOC="CY" CRS="CYA" Name="Cullybackey" Address="3043B3" HasAtoZ="false" XMLURN="3043B3.xml"/>
+<Station TIPLOC="CT" CRS="CTA" Name="Cultra" Address="3043B2" HasAtoZ="false" XMLURN="3043B2.xml"/>
+<Station TIPLOC="DH" CRS="DHA" Name="Derriaghy" Address="3043B5" HasAtoZ="false" XMLURN="3043B5.xml"/>
+<Station TIPLOC="DV" CRS="DVA" Name="Dhu Varren" Address="3043BA" HasAtoZ="false" XMLURN="3043BA.xml"/>
+<Station TIPLOC="DP" CRS="DPA" Name="Downshire" Address="3043B9" HasAtoZ="false" XMLURN="3043B9.xml"/>
+<Station TIPLOC="DG" CRS="DGA" Name="Drogheda" Address="3043B4" HasAtoZ="false" XMLURN="3043B4.xml"/>
+<Station TIPLOC="DN" CRS="DNA" Name="Dublin Connolly" Address="3043B8" HasAtoZ="false" XMLURN="3043B8.xml"/>
+<Station TIPLOC="DK" CRS="DKA" Name="Dundalk" Address="3043B6" HasAtoZ="false" XMLURN="3043B6.xml"/>
+<Station TIPLOC="DM" CRS="DMA" Name="Dunmurry" Address="3043B7" HasAtoZ="false" XMLURN="3043B7.xml"/>
+<Station TIPLOC="FY" CRS="FYA" Name="Finaghy" Address="3043BB" HasAtoZ="false" XMLURN="3043BB.xml"/>
+<Station TIPLOC="GN" CRS="GNA" Name="Glynn" Address="3044BD" HasAtoZ="false" XMLURN="3044BD.xml"/>
+<Station TIPLOC="GV" CRS="GVA" Name="Great Victoria St" Address="3044BE" HasAtoZ="false" XMLURN="3044BE.xml"/>
+<Station TIPLOC="GD" CRS="GDA" Name="Greenisland" Address="3043BC" HasAtoZ="false" XMLURN="3043BC.xml"/>
+<Station TIPLOC="HB" CRS="HBA" Name="Helen's Bay" Address="3044BF" HasAtoZ="false" XMLURN="3044BF.xml"/>
+<Station TIPLOC="HD" CRS="HDA" Name="Hilden" Address="3044C0" HasAtoZ="false" XMLURN="3044C0.xml"/>
+<Station TIPLOC="HW" CRS="HWA" Name="Holywood" Address="3044C1" HasAtoZ="false" XMLURN="3044C1.xml"/>
+<Station TIPLOC="JN" CRS="JNA" Name="Jordanstown" Address="3044C2" HasAtoZ="false" XMLURN="3044C2.xml"/>
+<Station TIPLOC="LG" CRS="LGA" Name="Lambeg" Address="3044C4" HasAtoZ="false" XMLURN="3044C4.xml"/>
+<Station TIPLOC="LR" CRS="LRA" Name="Larne Harbour" Address="3044C6" HasAtoZ="false" XMLURN="3044C6.xml"/>
+<Station TIPLOC="LN" CRS="LNA" Name="Larne Town" Address="3044C5" HasAtoZ="false" XMLURN="3044C5.xml"/>
+<Station TIPLOC="LB" CRS="LBA" Name="Lisburn" Address="3044C3" HasAtoZ="false" XMLURN="3044C3.xml"/>
+<Station TIPLOC="LY" CRS="LYA" Name="Londonderry" Address="3044C8" HasAtoZ="false" XMLURN="3044C8.xml"/>
+<Station TIPLOC="LU" CRS="LUA" Name="Lurgan" Address="3044C7" HasAtoZ="false" XMLURN="3044C7.xml"/>
+<Station TIPLOC="MM" CRS="MMA" Name="Magheramorne" Address="3044C9" HasAtoZ="false" XMLURN="3044C9.xml"/>
+<Station TIPLOC="MO" CRS="MOA" Name="Marino" Address="3044CA" HasAtoZ="false" XMLURN="3044CA.xml"/>
+<Station TIPLOC="MR" CRS="MRA" Name="Moira" Address="3045CB" HasAtoZ="false" XMLURN="3045CB.xml"/>
+<Station TIPLOC="MW" CRS="MWA" Name="Mossley West" Address="3045CC" HasAtoZ="false" XMLURN="3045CC.xml"/>
+<Station TIPLOC="NY" CRS="NYA" Name="Newry" Address="3045CD" HasAtoZ="false" XMLURN="3045CD.xml"/>
+<Station TIPLOC="PD" CRS="PDA" Name="Portadown" Address="3045CE" HasAtoZ="false" XMLURN="3045CE.xml"/>
+<Station TIPLOC="PH" CRS="PHA" Name="Portrush" Address="3045CF" HasAtoZ="false" XMLURN="3045CF.xml"/>
+<Station TIPLOC="PS" CRS="PSA" Name="Poyntzpass" Address="3045D0" HasAtoZ="false" XMLURN="3045D0.xml"/>
+<Station TIPLOC="SA" CRS="SAA" Name="Scarva" Address="3045D1" HasAtoZ="false" XMLURN="3045D1.xml"/>
+<Station TIPLOC="SL" CRS="SLA" Name="Seahill" Address="3045D2" HasAtoZ="false" XMLURN="3045D2.xml"/>
+<Station TIPLOC="SY" CRS="SYA" Name="Sydenham" Address="3045D3" HasAtoZ="false" XMLURN="3045D3.xml"/>
+<Station TIPLOC="BE" CRS="BEA" Name="Titanic Quarter" Address="3042A4" HasAtoZ="false" XMLURN="3042A4.xml"/>
+<Station TIPLOC="TE" CRS="TEA" Name="Trooperslane" Address="3045D4" HasAtoZ="false" XMLURN="3045D4.xml"/>
+<Station TIPLOC="UV" CRS="UVA" Name="University" Address="3045D5" HasAtoZ="false" XMLURN="3045D5.xml"/>
+<Station TIPLOC="WY" CRS="WYA" Name="Whiteabbey" Address="3045D7" HasAtoZ="false" XMLURN="3045D7.xml"/>
+<Station TIPLOC="WD" CRS="WDA" Name="Whitehead" Address="3045D6" HasAtoZ="false" XMLURN="3045D6.xml"/>
+<Station TIPLOC="YG" CRS="YGA" Name="Yorkgate" Address="3045D8" HasAtoZ="false" XMLURN="3045D8.xml"/>
+</LICC>
+<LICC Name="Transpennine Express" Code="TPE">
+<Station TIPLOC="BNTBY" CRS="BTB" Name="Barnetby" Address="304821" HasAtoZ="false" XMLURN="304821.xml"/>
+<Station TIPLOC="BROUGH" CRS="BUH" Name="Brough" Address="304822" HasAtoZ="false" XMLURN="304822.xml"/>
+<Station TIPLOC="CLTHRPS" CRS="CLE" Name="Cleethorpes" Address="304823" HasAtoZ="false" XMLURN="304823.xml"/>
+<Station TIPLOC="DWBY" CRS="DEW" Name="Dewsbury" Address="304824" HasAtoZ="false" XMLURN="304824.xml"/>
+<Station TIPLOC="GRMSBYT" CRS="GMB" Name="Grimsby Town" Address="304825" HasAtoZ="false" XMLURN="304825.xml"/>
+<Station TIPLOC="HDRSFLD" CRS="HUD" Name="Huddersfield" Address="304826" HasAtoZ="false" XMLURN="304826.xml"/>
+<Station TIPLOC="HULL" CRS="HUL" Name="Hull" Address="3031B3" HasAtoZ="false" XMLURN="3031B3.xml"/>
+<Station TIPLOC="MALTON" CRS="MLT" Name="Malton" Address="304827" HasAtoZ="false" XMLURN="304827.xml"/>
+<Station TIPLOC="MNCRIAP" CRS="MIA" Name="Manchester Airport" Address="304828" HasAtoZ="false" XMLURN="304828.xml"/>
+<Station TIPLOC="MDLSBRO" CRS="MBR" Name="Middlesbrough" Address="304829" HasAtoZ="false" XMLURN="304829.xml"/>
+<Station TIPLOC="NLRTN" CRS="NTR" Name="Northallerton" Address="30482A" HasAtoZ="false" XMLURN="30482A.xml"/>
+<Station TIPLOC="SCARBRO" CRS="SCA" Name="Scarborough" Address="30482B" HasAtoZ="false" XMLURN="30482B.xml"/>
+<Station TIPLOC="SCNTHRP" CRS="SCU" Name="Scunthorpe" Address="30482C" HasAtoZ="false" XMLURN="30482C.xml"/>
+<Station TIPLOC="SEAMER" CRS="SEM" Name="Seamer" Address="30482D" HasAtoZ="false" XMLURN="30482D.xml"/>
+<Station TIPLOC="SELBY" CRS="SBY" Name="Selby" Address="30482E" HasAtoZ="false" XMLURN="30482E.xml"/>
+<Station TIPLOC="SBYD" CRS="SYB" Name="Stalybridge" Address="30482F" HasAtoZ="false" XMLURN="30482F.xml"/>
+<Station TIPLOC="THIRSK" CRS="THI" Name="Thirsk" Address="304830" HasAtoZ="false" XMLURN="304830.xml"/>
+<Station TIPLOC="TABY" CRS="TBY" Name="Thornaby" Address="304831" HasAtoZ="false" XMLURN="304831.xml"/>
+<Station TIPLOC="YAAM" CRS="YRM" Name="Yarm" Address="304832" HasAtoZ="false" XMLURN="304832.xml"/>
+</LICC>
+</TigerStations>
